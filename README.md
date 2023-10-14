@@ -1,4 +1,4 @@
 # my-repository-demo
 This is my first repository.
 <br>
-Author - Akhilesh Pratap Singh
+Author - Akhilesh Pratap Singh ,a student
